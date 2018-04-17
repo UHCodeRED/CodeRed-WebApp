@@ -1,0 +1,8 @@
+{
+  "name": "CodeREDApp",
+  "version": "1.0.0",
+  "description": "Webapp for CodeRED",
+  "main": "index.js",
+  "author": "Ramon <ramirez.roberto45@gmail.com>",
+  "license": "MIT"
+}
